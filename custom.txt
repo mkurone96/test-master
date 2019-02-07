@@ -1,3 +1,2 @@
-test-master-custom1
-test-master-custom2
-test-master-custom-develop1
+test-develop-custom1
+test-develop-custom2
